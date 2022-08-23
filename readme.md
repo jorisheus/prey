@@ -1,4 +1,4 @@
-# :fox: Predator - :rabbit: Prey simulation
+# :fox_face: Predator - :rabbit: Prey simulation
 
 I have always been fascinated by running simulations in computers. 
 Back when I just started programming, I already tried to implement the game of life and
@@ -22,3 +22,4 @@ This is still very much a work in progress.
 Looking at the code I wrote around 10 years back, 
 there is a lot of room for improvement. But the general idea is there.
 
+![prey](https://user-images.githubusercontent.com/6709855/186279273-fa3d5827-a1ba-41ca-b93c-6e52d342e0cc.gif)
