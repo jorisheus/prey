@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C356AAA6-049C-4E71-93AB-C1AFE0246AF8}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prey.Domain", "Prey.Domain\Prey.Domain.csproj", "{F2FAE326-46E8-4B66-B9A0-36CEAD3CB305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prey.Frontend", "Prey.Frontend\Prey.Frontend.csproj", "{A3818FB4-6025-4E26-9274-611F2FDFDDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prey.ConfigurationOptimizer", "Prey.ConfigurationOptimizer\Prey.ConfigurationOptimizer.csproj", "{B6F8CFE5-0EC8-4533-A1AC-35B6C524FC15}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jorisheus.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Prey.Core\\Prey.Core.csproj
+		SccProjectName1 = Prey.Core
+		SccLocalPath1 = Prey.Core
+		SccProjectUniqueName2 = Prey.Runner\\Prey.Runner.csproj
+		SccProjectName2 = Prey.Runner
+		SccLocalPath2 = Prey.Runner
+		SccProjectUniqueName3 = Prey.Viewer\\Prey.Viewer.csproj
+		SccProjectName3 = Prey.Viewer
+		SccLocalPath3 = Prey.Viewer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FAE326-46E8-4B66-B9A0-36CEAD3CB305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FAE326-46E8-4B66-B9A0-36CEAD3CB305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FAE326-46E8-4B66-B9A0-36CEAD3CB305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FAE326-46E8-4B66-B9A0-36CEAD3CB305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3818FB4-6025-4E26-9274-611F2FDFDDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3818FB4-6025-4E26-9274-611F2FDFDDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3818FB4-6025-4E26-9274-611F2FDFDDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3818FB4-6025-4E26-9274-611F2FDFDDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F8CFE5-0EC8-4533-A1AC-35B6C524FC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F8CFE5-0EC8-4533-A1AC-35B6C524FC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F8CFE5-0EC8-4533-A1AC-35B6C524FC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F8CFE5-0EC8-4533-A1AC-35B6C524FC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
